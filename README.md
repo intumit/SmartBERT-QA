@@ -1,5 +1,5 @@
 # SmartBERT-QA
-Intelligent Conversational AI with Advanced NLP/NLU with Google BERT for Q&amp;A Chatbot Application
+Intelligent Conversational AI with Advanced NLP/NLU with Google BERT for Q&amp;A Chatbot Application<br>
 <br>
 ___>>Join our Social Media Channels<<___<br>
 >> Facebook: https://www.facebook.com/Intumit.AI.Solution<br>
